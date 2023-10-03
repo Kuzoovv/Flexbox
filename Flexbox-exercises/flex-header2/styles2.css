@@ -1,0 +1,44 @@
+.header{
+background-color: rgb(236, 228, 219);
+padding: 20px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+
+.header-container{
+display: flex;
+
+}
+
+ul{
+
+    list-style-type:none ;;
+    color: blue;
+    gap: 10px;
+    font-size: 25px;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+background-color: white
+}
+
+
+
+
+
+
+
+.logo{
+font-size: 48px;
+background-color: white;
+color: red;
+display: flex;
+justify-content: center;
+
+
+}

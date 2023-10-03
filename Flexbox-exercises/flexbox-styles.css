@@ -1,0 +1,42 @@
+
+
+.menu-container{
+display: flex;
+background-color: rgb(50, 112, 228);
+justify-content: space-around;
+width: 900px;
+height: auto;
+color: white;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 18px;
+}
+.links{
+display: flex;
+justify-content: flex-end;
+}
+
+.login{
+margin-left: 20px;
+}
+
+.header-container{
+    color: #5995DA;
+    background-color: #D6E9FE;
+    display: flex;
+    justify-content: flex-start;
+}
+ .header{
+    width: 900px;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.subscribe{
+
+}
+
+.logo{
+    
+
+}

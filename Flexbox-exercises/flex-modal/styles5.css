@@ -1,0 +1,78 @@
+html,body{
+height: 100%;
+}
+
+body{
+display: flex;
+justify-content: center;
+align-items: center;
+margin: 0;
+}
+
+.modal{
+background-color: white;
+display: flex;
+padding: 20px;
+gap: 16px;
+width: 600px;
+border-radius: 10px;
+box-shadow: 2px 4px 16px black;
+
+
+}
+.notification{
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: royalblue;
+color: lavender;
+border-radius: 50%;
+width: 42px;
+height: 42px;
+font-weight: 700;
+font-size: 26px;
+padding: 0;
+flex-shrink: 0;
+}
+
+
+.header{
+font-size: 30px;
+font-weight: bolder;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.close-button{
+background-color:white ;
+color: grey;
+padding: 0;
+width: 30px;
+height: 30px;
+border-radius:50% ;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.text{
+margin-bottom: 16px; ;
+}
+
+.continue{
+background-color: royalblue;
+color: white;
+width: 80px;
+height: 35px;
+border-radius: 20%;
+
+}
+
+.cancel{
+background-color: white;
+color: royalblue;
+width: 80px;
+height: 35px;
+border-radius: 20%;
+}
